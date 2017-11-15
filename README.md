@@ -3,4 +3,4 @@ Simulation code for mean field variational Bayes procedure for lagged kernel mac
 
 Code for running simulations using Variational Bayes implementation of LKMR, with comparisons to a Markov Chain Monte Carlo implementation of LKMR.
 
-For detailed instructions and information on the code output, please see this document.
+For detailed instructions and information on the code output, please see this [document](/VBSimulation_About.pdf).
